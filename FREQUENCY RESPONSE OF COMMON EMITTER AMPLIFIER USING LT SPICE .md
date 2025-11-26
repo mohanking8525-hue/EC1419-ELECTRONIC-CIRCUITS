@@ -20,10 +20,10 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
-<img width="407" height="431" alt="image" src="https://github.com/user-attachments/assets/39dcd2ca-c260-4e3c-ad35-6efc0e0a6aee" />
+<img width="780" height="1280" alt="image" src="https://github.com/user-attachments/assets/13bcd6c1-53e0-4206-a5e0-e7722050cd93" />
 
 ## Graph
-![WhatsApp Image 2025-11-09 at 19 20 42_3e48cd88](https://github.com/user-attachments/assets/2ff6a030-bee6-4739-a955-502b968df4bb)
+<img width="1050" height="1024" alt="image" src="https://github.com/user-attachments/assets/231a9d7a-502a-43a5-a88e-dcc7fc1bb694" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
